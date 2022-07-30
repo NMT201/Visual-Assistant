@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -371439473
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/tri/work/MyApplication/Visual-Assistant/OpenCV/.cxx/RelWithDebInfo/383n5u4z/x86/android_gradle_build.json due to:",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1422654942
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/tri/work/MyApplication/Visual-Assistant/OpenCV/.cxx/RelWithDebInfo/383n5u4z/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 8121796
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/tri/work/MyApplication/Visual-Assistant/OpenCV/.cxx/RelWithDebInfo/383n5u4z/x86/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 162953186
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2089690155
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/tri/work/MyApplication/Visual-Assistant/OpenCV/.cxx/RelWithDebInfo/383n5u4z/x86\u0027",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -284293143
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /home/tri/Android/Sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003d/home/tri/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/tri/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/tri/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/home/tri/Android/Sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/tri/work/MyApplication/Visual-Assistant/OpenCV/build/intermediates/cxx/RelWithDebInfo/383n5u4z/obj/x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/tri/work/MyApplication/Visual-Assistant/OpenCV/build/intermediates/cxx/RelWithDebInfo/383n5u4z/obj/x86\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-B/home/tri/work/MyApplication/Visual-Assistant/OpenCV/.cxx/RelWithDebInfo/383n5u4z/x86\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 863103558
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /home/tri/Android/Sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003d/home/tri/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/tri/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/tri/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/home/tri/Android/Sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/tri/work/MyApplication/Visual-Assistant/OpenCV/build/intermediates/cxx/RelWithDebInfo/383n5u4z/obj/x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/tri/work/MyApplication/Visual-Assistant/OpenCV/build/intermediates/cxx/RelWithDebInfo/383n5u4z/obj/x86\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-B/home/tri/work/MyApplication/Visual-Assistant/OpenCV/.cxx/RelWithDebInfo/383n5u4z/x86\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1575089959
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/tri/work/MyApplication/Visual-Assistant/OpenCV/.cxx/RelWithDebInfo/383n5u4z/x86/compile_commands.json.bin normally",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2043027694
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1777343904
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/tri/work/MyApplication/Visual-Assistant/OpenCV/.cxx/RelWithDebInfo/383n5u4z/x86/metadata_generation_command.txt",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1263880534
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/tri/work/MyApplication/Visual-Assistant/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -579550308
+  }
+]

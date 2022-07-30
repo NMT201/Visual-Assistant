@@ -1,0 +1,1 @@
+/home/tri/AndroidStudioProjects/MyApplication/OpenCV/build/intermediates/cxx/Debug/1k3b3u5c/obj/x86

@@ -1,0 +1,1 @@
+/home/tri/work/MyApplication/OpenCV/build/intermediates/cxx/Debug/6r6w1463/obj/x86

@@ -1,0 +1,1 @@
+/home/tri/work/MyApplication/Visual-Assistant/OpenCV/build/intermediates/cxx/RelWithDebInfo/383n5u4z/obj/x86
